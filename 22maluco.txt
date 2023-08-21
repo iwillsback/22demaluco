@@ -1,3 +1,3 @@
 https://www.python.org/ - linguagem de programaçao
-https://github.com/ - Local para subir os arquivos
+https://git-scm.com/ - Local para subir os arquivos
 https://code.visualstudio.com/ - editor de codigo fonte 
